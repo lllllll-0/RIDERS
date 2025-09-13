@@ -1,6 +1,6 @@
 # Radar-Intrusion-DEformation-early-warning-for-Road-Railway-Slopes-RIDERS-
 The Radar Intrusion & DEformation early-warning for Road/Railway Slopes (RIDERS) team is composed of members from National Central University. Our team is dedicated to developing radar-based monitoring and early-warning systems for road and railway slopes.
-Members:Wen-Qian Chang, Ting-Yi Lai, Tzu-Yang Chiang, Yi-Chen Chung, Xuan-You Cheng
+Members:Wen-Qian Chang, Ting-Yi Lai, Tzu-Yang Chiang, Yi-Chen Chung, Xuan-You Cheng, Cheng-Ling Kuo, Wei-Yu Chang
 
 
 
